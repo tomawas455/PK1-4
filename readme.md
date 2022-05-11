@@ -1,6 +1,7 @@
 Projects for computer programming classes. everything is in C/C++, because that's what these classes were about.
 
 # Projects description
+You can build these projects by running `make` inside them.
 ## PK1
 Topic "TUC". In short you give program list of logic gates, tell it which cables are connected where, and tell program what are inputs and outputs of program. Then you wait for output of the program.
 
