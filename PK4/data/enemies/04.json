@@ -1,0 +1,20 @@
+{
+    "texture":"04.png",
+    "health":10,
+    "boss":true,
+    "cooldown":0.5,
+    "bullets":[
+        {
+            "rotation type":"rotating",
+            "direction":[280, 280],
+            "texture":"03.png",
+            "rotation":200
+        },
+        {
+            "rotation type":"rotating",
+            "direction":[-280, 280],
+            "texture":"03.png",
+            "rotation":200
+        }
+    ]
+}

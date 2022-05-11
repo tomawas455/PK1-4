@@ -1,0 +1,25 @@
+{
+    "type":"bullet",
+    "texture":"bullet.png",
+    "cooldown":0.1,
+    "bullets":[
+        {
+            "rotation type":"constant",
+            "direction":[0, -400],
+            "texture":"02.png",
+            "rotation":0
+        },
+        {
+            "rotation type":"constant",
+            "direction":[282.8, -282.8],
+            "texture":"02.png",
+            "rotation":45
+        },
+        {
+            "rotation type":"constant",
+            "direction":[-282.8, -282.8],
+            "texture":"02.png",
+            "rotation":135
+        }
+    ]
+}

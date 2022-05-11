@@ -1,0 +1,11 @@
+{
+    "cooldown":0.1,
+    "bullets":[
+        {
+            "rotation type":"constant",
+            "direction":[0, -700],
+            "texture":"01.png",
+            "rotation":0
+        }
+    ]
+}

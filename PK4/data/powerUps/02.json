@@ -1,0 +1,5 @@
+{
+    "type":"increase damage",
+    "texture":"incDmg.png",
+    "value":1
+}
